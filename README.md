@@ -1,7 +1,7 @@
-cloudmed/docs
+cloudmed/termos portalcompras.io
 ================================
 
-Documentação e manuais dos sistemas em formato Ruby/Sinatra
+Termos de Uso em formato Ruby/Sinatra
 
 
 
