@@ -1,10 +1,10 @@
-cloudmed/termos portalcompras.io
+ cloudmed/portal-termos
 ================================
+Parte integrante de cloudmed/docs
 
-Termos de Uso em formato Ruby/Sinatra
-
-
-
+Termos de uso do sistema (portalcompras.io) em formato Ruby/Sinatra 
+	
+	(Módulo Termos)
 1.Instale a gem Bundler:
 gem install bundler
 
