@@ -2,6 +2,7 @@
 ================================
 Parte integrante de cloudmed/docs
 
+
 Termos de uso do sistema (portalcompras.io) em formato Ruby/Sinatra 
 	
 	(Módulo Termos)
